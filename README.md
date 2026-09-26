@@ -1,4 +1,4 @@
-# 💸 Projeto Pix
+#  Projeto Pix
 
 Sistema desenvolvido como projeto acadêmico para simular operações básicas de um sistema de pagamentos via **Pix**.
 
