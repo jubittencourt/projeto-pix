@@ -27,13 +27,13 @@ A aplicação utiliza uma arquitetura organizada em diferentes camadas, buscando
 
 | Tecnologia         | Utilização                            |
 | ------------------ | ------------------------------------- |
-| ☕ Java             | Linguagem principal                   |
-| 🍃 Spring Boot     | Desenvolvimento da aplicação Back-End |
-| 🌱 Spring Data JPA | Persistência e acesso aos dados       |
-| 🐬 MySQL           | Banco de dados                        |
-| 📦 Maven           | Gerenciamento de dependências         |
-| 🔧 Git             | Controle de versão                    |
-| 🐙 GitHub          | Hospedagem e versionamento do projeto |
+| * Java             | Linguagem principal                   |
+| * Spring Boot     | Desenvolvimento da aplicação Back-End |
+| * Spring Data JPA | Persistência e acesso aos dados       |
+| * MySQL           | Banco de dados                        |
+| * Maven           | Gerenciamento de dependências         |
+| * Git             | Controle de versão                    |
+| * GitHub          | Hospedagem e versionamento do projeto |
 
 ---
 
