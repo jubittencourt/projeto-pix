@@ -1,0 +1,76 @@
+# ==============================
+# Maven
+# ==============================
+
+HELP.md
+target/
+.mvn/wrapper/maven-wrapper.jar
+
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+
+# ==============================
+# Spring Tool Suite / Eclipse
+# ==============================
+
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings/
+.springBeans
+.sts4-cache
+
+
+# ==============================
+# IntelliJ IDEA
+# ==============================
+
+.idea/
+*.iws
+*.iml
+*.ipr
+
+
+# ==============================
+# NetBeans
+# ==============================
+
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+
+# ==============================
+# Gradle
+# ==============================
+
+build/
+
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+
+# ==============================
+# VS Code
+# ==============================
+
+.vscode/
+
+
+# ==============================
+# Arquivos de ambiente
+# ==============================
+
+.env
+.env.*
+
+
+# ==============================
+# Configurações locais
+# ==============================
+
+src/main/java/projetofaculdade/com/pix/resources/application.properties
